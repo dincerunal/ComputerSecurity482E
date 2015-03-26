@@ -1,0 +1,9 @@
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\bin\Debug\Computer_Security.exe.config
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\bin\Debug\Computer_Security.exe
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\bin\Debug\Computer_Security.pdb
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\obj\Debug\Computer_Security.csprojResolveAssemblyReference.cache
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\obj\Debug\Computer_Security.Form1.resources
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\obj\Debug\Computer_Security.Properties.Resources.resources
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\obj\Debug\Computer_Security.csproj.GenerateResource.Cache
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\obj\Debug\Computer_Security.exe
+C:\Users\dincer\documents\visual studio 2012\Projects\Computer_Security\Computer_Security\obj\Debug\Computer_Security.pdb
